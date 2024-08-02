@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="main">
+        <div class="top">
+            <div class="overlay">
+                <div class="text">
+                    <h1>Photography World</h1>
+                    <div class="image"></div>
+                    <div class="rtext">
+                        <p>Images</p>
+                        <p>Our Clicks</p>
+                    </div>
+                    <div class="icons">
+                        <i class="ri-twitter-fill"></i>
+                        <i class="ri-twitter-fill"></i>
+                        <i class="ri-instagram-line"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bottom">
+            <div class="content">
+                <div class="b1">
+                    <h1>Popular</h1>
+                    <p>This stunning image showcases the iconic Taj Mahal, located in Agra, India.The beauty of this magnificent monument is truly beyond words, as captured in this photograph.</p>
+                </div>
+                <div class="b2">
+                    <h1>Latest</h1>
+                    <p>
+                        These are the latest images of India Gate, located in Delhi. Recently, it underwent construction and renovation, but now it stands completed in all its glory. The majestic structure, a symbol of national pride, looks more magnificent than ever.</p>
+                </div>
+                <div class="b3">
+                    <p>Privacy Policies</p>
+                    <p>Terms and Conditions</p>
+                    <p>Contact Us for More images</p>
+                    <p>About Us</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</body>
+</html>
